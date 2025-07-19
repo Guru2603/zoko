@@ -1,2 +1,0 @@
-# zoko
-frontend
